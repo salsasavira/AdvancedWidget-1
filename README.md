@@ -1,10 +1,10 @@
 # AdvancedWidget1
 
-###Screenshoot:
-
+#Screenshoot:
 ![Screenschot](http://s21.postimg.org/6o654uimb/Screenshot_20160924_200029.png)
 ![Screenshot](http://s21.postimg.org/fkgx8s98j/Screenshot_20160924_200055.png)
 
+#Identitas
 ###Nama: Salsabilla Mega Savira
 ###Kelas: XI RPL 3
 ###No.Absen: 30
